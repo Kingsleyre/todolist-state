@@ -18,10 +18,9 @@ const App = () => {
         <h1>Kingsley's TodoList 🚀🐨</h1>
         <img alt='' src={logo} width={55} height={55} />
       </Header>
-
       <TodoCategory title='Morning' />
       <TodoCategory title='Afternoon' />
-      <TodoCategory title='Night' />
+      <TodoCategory title='Tonight' />
       
       <Footer />
     </>

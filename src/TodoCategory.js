@@ -1,6 +1,6 @@
 import React from 'react';
 
-import TodoForm from './TodoFormClass';
+import TodoForm from './TodoForm';
 import TodoList from './TodoList';
 
 const TodoCategory = (props) => {
